@@ -1,0 +1,68 @@
+#!/usr/bin/pinpoint
+--
+Best
+git
+hacks
+--
+hub.github.com
+--
+Extends
+git
+--
+$ alias git=hub
+--
+# Create a repo on github
+$ git create 
+$ git push
+--
+# Add remote fork of current repo
+$ git fetch nextgenhacker101
+$ git checkout nextgenhacker101/master
+--
+# Make a PR
+$ git checkout -b some_bug
+$ git add -a
+$ git commit -m"Fixed That For You"
+$ git push --set-upstream origin some_bug 
+$ git pull-request # ← OMG!!
+--
+gitdown
+--
+Don't drink
+and code
+-- [images/drinkshield.jpg]
+
+-- [images/gitdown.png]
+
+-- [images/gitdown2.jpg]
+
+# Ballmer peak: BAC 0.1337%
+
+--
+github.com/
+noidontdig/gitdown
+--
+Lolcommits
+--
+Takes a
+picture
+--
+Marks up
+with commit msg
+-- [images/lolcommit-typical.jpg]
+
+-- [images/lolcommits-goblins.jpg]
+
+-- [images/lolcommit-thoughtful.jpg]
+
+-- [images/lolcommit-rr.jpg]
+
+--
+Combine with
+gitdown for
+maximum fun!
+
+-- [images/lolcommit-510.jpg]
+
+--
+Thank you!
